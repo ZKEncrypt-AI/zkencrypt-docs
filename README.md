@@ -1,4 +1,4 @@
-# ZKEncrypt Documentationf
+# ZKEncrypt Documentation
 
 Official documentation site for ZKEncrypt Network - Built with VitePress.
 
